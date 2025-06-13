@@ -47,9 +47,9 @@ ws WebSocket library
 
 Setup Instructions
 Prerequisites
-Node.js (version 16 or higher)
+Node.js latest
 
-npm or yarn
+npm 
 
 Backend Setup
 arduino
