@@ -2,9 +2,7 @@ Errgo Code Assessment – Solution by Harikeerth P V
 This repository contains the completed solution for the Errgo Code Assessment. T
 
 Project Structure
-bash
-Copy
-Edit
+
 .
 
 
